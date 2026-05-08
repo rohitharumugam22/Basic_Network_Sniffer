@@ -1,4 +1,4 @@
-# CodeAlpha_Basic_Network_Sniffer
+# Basic_Network_Sniffer
  # Overview
   This project is a network sniffer tool implemented in Python. It captures and analyzes network traffic, providing detailed information about each packet. The tool utilizes the Npcap library for packet capture on Windows systems.
 
